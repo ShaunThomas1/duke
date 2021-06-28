@@ -1,0 +1,31 @@
+body {
+  background-color: #FFE5B4
+}
+h1 {
+  text-align:center;
+  color:blue;
+}
+ul {
+  color: #000080;
+}
+ol {
+  color:red;
+}
+.Topic {
+  color:Chocolate;
+}
+.Numbered {
+  color:Indigo;
+}
+.Place {
+  color:Fuchsia;
+}
+.CountriesLi {
+  color:Orange;
+}
+.CountriesLis {
+  color:CadetBlue;
+}
+.CountriesL {
+  color:Chartreuse;
+}
